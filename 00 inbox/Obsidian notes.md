@@ -16,7 +16,10 @@
 - 反思什麼是值得花時整理的知識
 
 ## A block of code is knowlege
-It can be adapt in many cases:
+It can be adapted in many cases:
 e.g. Following is about how to create links to block in obsidian:
 ![[Obsidian link#Create link to block]]
+
+## course ref
+[# 课时4 双链的用法和价值](https://www.youtube.com/watch?v=xw0yIaStXC4)
 

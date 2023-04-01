@@ -17,24 +17,30 @@ use number and . to write ordered list
 3. cc
 
 ## Unordered list
-use * and space to write unordered list
-* aa
-* bb
-* cc
-	* cc-1
-	* cc-2
-* dd
-	* dd-1
-	* dd-2
+use - and space to write unordered list
+- aa
+- bb
+- cc
+	- cc-1
+	- cc-2
+-  dd
+	- dd-1
+	- dd-2
 	
+
 ## 引用
 use > and space to start 引用
 > this is 引用
+
+---
+
 
 Horizontal rule
 use 3 - to write horizontal rule
 
 ---
+---
+
 
 ## Link
 use [] and () to write link
@@ -45,16 +51,21 @@ use [[]] to insert double link
 This is also [[Obsidian link]]
 
 ## 代碼
-use 3 . to write 代碼
-??? but it seems not work???
-...this is 
-...
+use 4 space or tab to start a code block
+
+    this is code block
+
+	this is another block
+
 
 ## Task list
-use - [ ] to write task list
-??? but it seems not work ???
--[ ] aa
- 
+use - [  ] to write task list
+- [x]  item
+- [ ] item 2
+- [ ] item 3
+
+
+[Markdown guide](https://www.markdownguide.org/basic-syntax/)
 [CMD online markdown editor](https://dillinger.io/)
 
  
