@@ -13,13 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Obsidian settings.md",
+                "file": "00 inbox/Obsidian settings.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b76739d7083bdff2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 inbox/Obsidian notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d70f2386b38b4d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00 inbox/Obsidian settings.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -65,7 +90,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -85,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Obsidian settings.md",
+                "file": "00 inbox/Obsidian settings.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Obsidian settings.md",
+                "file": "00 inbox/Obsidian settings.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +151,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Obsidian settings.md"
+                "file": "00 inbox/Obsidian settings.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,11 +172,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8f4a0e1bc9200ff4",
+  "active": "7d70f2386b38b4d0",
   "lastOpenFiles": [
+    "00 inbox/Markdown notes.md",
+    "00 inbox/link.md",
+    "00 inbox/Obsidian notes.md",
+    "00 inbox/Obsidian settings.md",
     "attachment/Screenshot from 2023-04-01 09-20-24.png",
     "attachment",
-    "test1.md",
-    "Obsidian settings.md"
+    "test1.md"
   ]
 }
