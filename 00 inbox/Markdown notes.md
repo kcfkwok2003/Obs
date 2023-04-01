@@ -40,6 +40,10 @@ use 3 - to write horizontal rule
 use [] and () to write link
 This is [link](link to)
 
+## Double link
+use [[]] to insert double link
+This is also [[Obsidian link]]
+
 ## 代碼
 use 3 . to write 代碼
 ??? but it seems not work???

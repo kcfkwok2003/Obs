@@ -4,10 +4,10 @@ Short cut key to open settings: Ctrl+,
 Most useful settings need to change or check:
 
 ## About
--> Language: Chinese / English
+-> Language: Chinese / English  ^memo20230401
 
 ## Appearance
- -> base color scheme: dark / light
+ -> base color scheme: dark / light ^a7c9e9
 
 ## Editor
 -> General 
