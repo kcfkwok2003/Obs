@@ -51,6 +51,10 @@ use [[]] to insert double link
 This is also [[Obsidian link]]
 
 ## 代碼
+use 3 \` to start code
+
+
+## code block
 use 4 space or tab to start a code block
 
     this is code block

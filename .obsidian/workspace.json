@@ -26,9 +26,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "301f65d2d64c5131",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 日記/2023-04-02_Sun.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -47,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#testing",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,6 +84,14 @@
               "state": {
                 "sortOrder": "alphabetical"
               }
+            }
+          },
+          {
+            "id": "3a4746f7700a0988",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
             }
           }
         ],
@@ -149,11 +169,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,30 +184,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-memos:Memos": false
     }
   },
-  "active": "1b90e8637ce80d28",
+  "active": "301f65d2d64c5131",
   "lastOpenFiles": [
+    "00 inbox/Obsidian search and query.md",
+    "01 日記/2023-04-02_Sun.md",
+    "00 inbox/Obsidian link.md",
+    "00 inbox/Markdown notes.md",
+    "00 inbox/Obsidian command pallete.md",
+    "00 inbox/Obsidian hot keys.md",
+    "00 inbox/Obsidian notes.md",
+    "00 inbox/Obsidian notes.sync-conflict-20230401-203010-SUJFBB2.md",
     "00 inbox/Obsidian community plugin notes.md",
     "Excalidraw/Drawing 2023-04-02 12.48.51.excalidraw.md",
     "Excalidraw/Drawing 2023-04-02 12.49.59.excalidraw.md",
-    "01 日記/2023-04-02_Sun.md",
     "Excalidraw",
     "00 template/日記模板.md",
     "00 template/會議記錄模板.md",
-    "00 inbox/Obsidian notes.md",
-    "00 inbox/Markdown notes.md",
     "00 inbox/Obsidian template.md",
     "00 inbox/Obsidian settings.md",
     "00 inbox/Pasted image 20230402112823.png.md",
-    "00 inbox/Obsidian link.md",
     "attachment/Pasted image 20230402112823.png",
     "attachment/Screenshot from 2023-04-01 09-20-24.png",
-    "00 inbox/Obsidian hot keys.md",
-    "00 inbox/Obsidian notes.sync-conflict-20230401-203010-SUJFBB2.md",
-    "00 inbox/Obsidian command pallete.md",
     "Untitled.canvas",
     "會議記錄/20230401會議記錄.md",
     "會議記錄",
