@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日記/2023-04-02_Sun.md",
+                "file": "01 日記/2023-04-04_Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日記/2023-04-02_Sun.md",
+                "file": "01 日記/2023-04-04_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日記/2023-04-02_Sun.md",
+                "file": "01 日記/2023-04-04_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日記/2023-04-02_Sun.md"
+                "file": "01 日記/2023-04-04_Tue.md"
               }
             }
           },
@@ -190,8 +190,10 @@
   },
   "active": "301f65d2d64c5131",
   "lastOpenFiles": [
-    "00 inbox/Obsidian search and query.md",
+    "01 日記/2023-04-03_Mon.md",
+    "01 日記/2023-04-04_Tue.md",
     "01 日記/2023-04-02_Sun.md",
+    "00 inbox/Obsidian search and query.md",
     "00 inbox/Obsidian link.md",
     "00 inbox/Markdown notes.md",
     "00 inbox/Obsidian command pallete.md",
