@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8300a905fddd5813",
+        "id": "dd675ebfa0272ebf",
         "type": "tabs",
         "children": [
           {
-            "id": "403a2ebad67ecdb1",
+            "id": "5a6c329bc5f38462",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日記/2023-04-04_Tue.md",
+                "file": "01 日記/2023-04-02_Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01 日記/2023-04-04_Tue.md",
+            "file": "01 日記/2023-04-02_Sun.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01 日記/2023-04-04_Tue.md",
+            "file": "01 日記/2023-04-02_Sun.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "01 日記/2023-04-04_Tue.md"
+            "file": "01 日記/2023-04-02_Sun.md"
           }
         }
       },
@@ -149,12 +149,8 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "403a2ebad67ecdb1",
+  "active": "b825d517957480fc",
   "lastOpenFiles": [
-    "01 日記/2023-04-04_Tue.sync-conflict-20230404-220908-UBVB5NB.md",
-    "01 日記/2023-04-04_Tue.md",
-    "01 日記/2023-04-03_Mon.md",
-    "01 日記/2023-04-02_Sun.md",
     "01 日記/2023-04-01_Sat.md",
     "00 inbox/Obsidian notes.md",
     "00 inbox/Obsidian template.md",
