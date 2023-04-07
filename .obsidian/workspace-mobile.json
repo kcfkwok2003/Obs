@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日記/2023-04-05_Wed.md",
+                "file": "01 日記/2023-04-04_Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "01 日記/2023-04-05_Wed.md",
+            "file": "01 日記/2023-04-04_Tue.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "01 日記/2023-04-05_Wed.md",
+            "file": "01 日記/2023-04-04_Tue.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -122,7 +122,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "01 日記/2023-04-05_Wed.md"
+            "file": "01 日記/2023-04-04_Tue.md"
           }
         }
       },
@@ -151,6 +151,7 @@
   },
   "active": "403a2ebad67ecdb1",
   "lastOpenFiles": [
+    "01 日記/2023-04-05_Wed.md",
     "01 日記/2023-04-04_Tue.md",
     "01 日記/2023-04-04_Tue.sync-conflict-20230404-220908-UBVB5NB.md",
     "01 日記/2023-04-03_Mon.md",

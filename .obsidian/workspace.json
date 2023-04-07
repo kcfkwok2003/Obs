@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日記/2023-04-05_Wed.md",
+                "file": "01 日記/2023-04-07_Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,10 +59,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "std",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -94,7 +94,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -114,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日記/2023-04-05_Wed.md",
+                "file": "01 日記/2023-04-07_Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日記/2023-04-05_Wed.md",
+                "file": "01 日記/2023-04-07_Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日記/2023-04-05_Wed.md"
+                "file": "01 日記/2023-04-07_Fri.md"
               }
             }
           },
@@ -186,11 +187,12 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "8f4a0e1bc9200ff4",
+  "active": "301f65d2d64c5131",
   "lastOpenFiles": [
+    "01 日記/2023-04-05_Wed.md",
+    "01 日記/2023-04-07_Fri.md",
     "01 日記/2023-04-03_Mon.md",
     "01 日記/2023-04-04_Tue.md",
-    "01 日記/2023-04-05_Wed.md",
     "01 日記/2023-04-04_Tue.sync-conflict-20230404-220908-UBVB5NB.md",
     "01 日記/2023-04-02_Sun.md",
     "00 inbox/Obsidian search and query.md",
