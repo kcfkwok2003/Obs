@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日記/2023-04-25_Tue.md",
+                "file": "01 日記/2023-04-29_Sat.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日記/2023-04-25_Tue.md",
+                "file": "01 日記/2023-04-29_Sat.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日記/2023-04-25_Tue.md",
+                "file": "01 日記/2023-04-29_Sat.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日記/2023-04-25_Tue.md"
+                "file": "01 日記/2023-04-29_Sat.md"
               }
             }
           },
@@ -189,8 +189,11 @@
   },
   "active": "27be450b188a75d6",
   "lastOpenFiles": [
-    "01 日記/2023-04-14_Fri.md",
+    "01 日記/2023-04-27_Thu.md",
+    "01 日記/2023-04-29_Sat.md",
+    "01 日記/2023-04-26_Wed.md",
     "01 日記/2023-04-25_Tue.md",
+    "01 日記/2023-04-14_Fri.md",
     "01 日記/2023-04-12_Wed.md",
     "00 inbox/esp32 rust notes.md",
     "01 日記/2023-04-05_Wed.md",
@@ -212,10 +215,7 @@
     "00 inbox/Obsidian notes.sync-conflict-20230401-203010-SUJFBB2.md",
     "00 inbox/Obsidian community plugin notes.md",
     "Excalidraw/Drawing 2023-04-02 12.48.51.excalidraw.md",
-    "Excalidraw/Drawing 2023-04-02 12.49.59.excalidraw.md",
     "Excalidraw",
-    "00 template/日記模板.md",
-    "00 template/會議記錄模板.md",
     "attachment/Pasted image 20230402112823.png",
     "attachment/Screenshot from 2023-04-01 09-20-24.png",
     "Untitled.canvas",
