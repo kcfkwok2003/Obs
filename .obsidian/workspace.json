@@ -38,9 +38,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "afc9da634c2ae12d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 日記/2023-05-04_Thu.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -93,6 +105,14 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "eeca5ce09a6acf75",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
@@ -115,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日記/2023-05-03_Wed.md",
+                "file": "01 日記/2023-05-04_Thu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日記/2023-05-03_Wed.md",
+                "file": "01 日記/2023-05-04_Thu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日記/2023-05-03_Wed.md"
+                "file": "01 日記/2023-05-04_Thu.md"
               }
             }
           },
@@ -187,10 +207,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "27be450b188a75d6",
+  "active": "afc9da634c2ae12d",
   "lastOpenFiles": [
-    "01 日記/2023-05-02_Tue.md",
     "01 日記/2023-05-03_Wed.md",
+    "01 日記/2023-05-04_Thu.md",
+    "01 日記/2023-05-02_Tue.md",
     "01 日記/2023-05-01_Mon.md",
     "01 日記/2023-04-30_Sun.md",
     "01 日記/2023-04-29_Sat.md",
@@ -214,7 +235,6 @@
     "00 inbox/Obsidian link.md",
     "00 inbox/Markdown notes.md",
     "00 inbox/Obsidian command pallete.md",
-    "00 inbox/Obsidian hot keys.md",
     "Excalidraw",
     "attachment/Pasted image 20230402112823.png",
     "attachment/Screenshot from 2023-04-01 09-20-24.png",
