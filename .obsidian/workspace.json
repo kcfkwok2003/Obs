@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日記/2023-05-06_Sat.md",
+                "file": "01 日記/2023-05-05_Fri.md",
                 "mode": "source",
                 "source": false
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日記/2023-05-06_Sat.md",
+                "file": "01 日記/2023-05-05_Fri.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日記/2023-05-06_Sat.md",
+                "file": "01 日記/2023-05-05_Fri.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日記/2023-05-06_Sat.md"
+                "file": "01 日記/2023-05-05_Fri.md"
               }
             }
           },
@@ -209,8 +209,9 @@
   },
   "active": "afc9da634c2ae12d",
   "lastOpenFiles": [
-    "01 日記/2023-05-07_Sun.md",
     "01 日記/2023-05-06_Sat.md",
+    "01 日記/2023-05-07_Sun.md",
+    "01 日記/2023-05-11_Thu.md",
     "01 日記/2023-05-05_Fri.md",
     "01 日記/2023-05-04_Thu.md",
     "01 日記/2023-04-30_Sun.md",
@@ -234,7 +235,6 @@
     "01 日記/2023-04-04_Tue.md",
     "01 日記/2023-04-04_Tue.sync-conflict-20230404-220908-UBVB5NB.md",
     "01 日記/2023-04-02_Sun.md",
-    "00 inbox/Obsidian search and query.md",
     "Excalidraw",
     "attachment/Pasted image 20230402112823.png",
     "attachment/Screenshot from 2023-04-01 09-20-24.png",
