@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "2023-05-21_Sun",
+      "path": "01 日記/2023-05-21_Sun.md"
+    },
+    {
+      "basename": "2023-05-15_Mon",
+      "path": "01 日記/2023-05-15_Mon.md"
+    },
+    {
+      "basename": "2023-04-02_Sun",
+      "path": "01 日記/2023-04-02_Sun.md"
+    },
+    {
       "basename": "2023-05-13_Sat",
       "path": "01 日記/2023-05-13_Sat.md"
-    },
-    {
-      "basename": "2023-05-05_Fri",
-      "path": "01 日記/2023-05-05_Fri.md"
-    },
-    {
-      "basename": "2023-05-11_Thu",
-      "path": "01 日記/2023-05-11_Thu.md"
     },
     {
       "basename": "2023-05-06_Sat",
@@ -19,6 +23,14 @@
     {
       "basename": "2023-05-07_Sun",
       "path": "01 日記/2023-05-07_Sun.md"
+    },
+    {
+      "basename": "2023-05-11_Thu",
+      "path": "01 日記/2023-05-11_Thu.md"
+    },
+    {
+      "basename": "2023-05-05_Fri",
+      "path": "01 日記/2023-05-05_Fri.md"
     },
     {
       "basename": "2023-05-04_Thu",
@@ -95,10 +107,6 @@
     {
       "basename": "2023-04-03_Mon",
       "path": "01 日記/2023-04-03_Mon.md"
-    },
-    {
-      "basename": "2023-04-02_Sun",
-      "path": "01 日記/2023-04-02_Sun.md"
     },
     {
       "basename": "Obsidian search and query",
