@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日記/2023-05-21_Sun.md",
+                "file": "01 日記/2023-05-22_Mon.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日記/2023-05-21_Sun.md",
+                "file": "01 日記/2023-05-22_Mon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日記/2023-05-21_Sun.md",
+                "file": "01 日記/2023-05-22_Mon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日記/2023-05-21_Sun.md"
+                "file": "01 日記/2023-05-22_Mon.md"
               }
             }
           },
@@ -191,14 +191,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-memos:Memos": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-memos:Memos": false
     }
   },
   "active": "4c8ab8010023d16a",
   "lastOpenFiles": [
-    "01 日記/2023-05-15_Mon.md",
     "01 日記/2023-05-21_Sun.md",
+    "01 日記/2023-05-22_Mon.md",
+    "01 日記/2023-05-15_Mon.md",
     "01 日記/2023-04-02_Sun.md",
     "01 日記/2023-05-13_Sat.md",
     "01 日記/2023-05-06_Sat.md",
@@ -222,7 +223,6 @@
     "01 日記/2023-04-08_Sat.md",
     "00 inbox/embedonomicon notes.md",
     "01 日記/2023-04-09_Sun.md",
-    "00 inbox/().md",
     "Excalidraw",
     "attachment/Pasted image 20230402112823.png",
     "attachment/Screenshot from 2023-04-01 09-20-24.png",
