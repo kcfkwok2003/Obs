@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日記/2023-05-22_Mon.md",
+                "file": "01 日記/2023-05-23_Tue.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "catalog",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -102,8 +102,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -123,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日記/2023-05-22_Mon.md",
+                "file": "01 日記/2023-05-23_Tue.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日記/2023-05-22_Mon.md",
+                "file": "01 日記/2023-05-23_Tue.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日記/2023-05-22_Mon.md"
+                "file": "01 日記/2023-05-23_Tue.md"
               }
             }
           },
@@ -197,12 +196,14 @@
   },
   "active": "4c8ab8010023d16a",
   "lastOpenFiles": [
-    "01 日記/2023-05-21_Sun.md",
+    "01 日記/2023-05-13_Sat.md",
+    "01 日記/2023-05-03_Wed.md",
     "01 日記/2023-05-22_Mon.md",
+    "01 日記/2023-05-23_Tue.md",
+    "01 日記/2023-05-06_Sat.md",
+    "01 日記/2023-05-21_Sun.md",
     "01 日記/2023-05-15_Mon.md",
     "01 日記/2023-04-02_Sun.md",
-    "01 日記/2023-05-13_Sat.md",
-    "01 日記/2023-05-06_Sat.md",
     "01 日記/2023-05-07_Sun.md",
     "01 日記/2023-05-11_Thu.md",
     "01 日記/2023-05-05_Fri.md",
@@ -210,7 +211,6 @@
     "01 日記/2023-04-30_Sun.md",
     "01 日記/2023-05-01_Mon.md",
     "01 日記/2023-05-02_Tue.md",
-    "01 日記/2023-05-03_Wed.md",
     "01 日記/2023-04-29_Sat.md",
     "01 日記/2023-04-27_Thu.md",
     "01 日記/2023-04-26_Wed.md",
@@ -222,7 +222,6 @@
     "01 日記/2023-04-07_Fri.md",
     "01 日記/2023-04-08_Sat.md",
     "00 inbox/embedonomicon notes.md",
-    "01 日記/2023-04-09_Sun.md",
     "Excalidraw",
     "attachment/Pasted image 20230402112823.png",
     "attachment/Screenshot from 2023-04-01 09-20-24.png",
