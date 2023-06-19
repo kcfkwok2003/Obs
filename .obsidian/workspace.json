@@ -69,7 +69,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 日記/2023-06-17_Sat.md",
+                "file": "01 日記/2023-06-18_Sun.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,7 +159,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 日記/2023-06-17_Sat.md",
+                "file": "01 日記/2023-06-18_Sun.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 日記/2023-06-17_Sat.md",
+                "file": "01 日記/2023-06-18_Sun.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -199,7 +199,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 日記/2023-06-17_Sat.md"
+                "file": "01 日記/2023-06-18_Sun.md"
               }
             }
           },
@@ -233,6 +233,8 @@
   },
   "active": "df6dbac9d09ba9dc",
   "lastOpenFiles": [
+    "01 日記/2023-06-19_Mon.md",
+    "01 日記/2023-06-18_Sun.md",
     "01 日記/2023-06-17_Sat.md",
     "01 日記/2023-06-16_Fri.md",
     "01 日記/2023-05-13_Sat.md",
@@ -257,8 +259,6 @@
     "01 日記/2023-04-02_Sun.md",
     "01 日記/2023-05-07_Sun.md",
     "01 日記/2023-05-04_Thu.md",
-    "01 日記/2023-05-01_Mon.md",
-    "01 日記/2023-05-02_Tue.md",
     "Excalidraw",
     "attachment/Pasted image 20230402112823.png",
     "attachment/Screenshot from 2023-04-01 09-20-24.png",
